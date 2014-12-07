@@ -12,4 +12,8 @@ Use gestures for movement!
 - **Stop**: Closed fist
 - **Exit**: Unimplmented. Stop with closed fist before exiting program.
 
+Videos:
 
+Johnnie Five Sumobot with Electric Imp & Keypress: https://vimeo.com/113817329
+
+Johniie Five Sumobot with Electric Imp & Myo: https://vimeo.com/113817240
