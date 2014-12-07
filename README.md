@@ -7,8 +7,8 @@ Using a Sumobot (two servos, 4 AA's, a microcontroller and wheels) controlled by
 Use gestures for movement!
 
 - **Forward**: Spread open hand
-- **Left **: Wave in
-- **Right **: Wave out
+- **Left**: Wave in
+- **Right**: Wave out
 - **Stop**: Closed fist
 - **Exit**: Unimplmented. Stop with closed fist before exiting program.
 
